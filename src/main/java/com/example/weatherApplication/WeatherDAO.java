@@ -17,12 +17,4 @@ public class WeatherDAO {
         datas.add(w);
         return;
     }
-
-//    public List<WeatherVO> removeData(String name) {
-//        for(WeatherVO w: datas){
-//            if(w.getcityname() == name)
-//        }
-//        return datas;
-//    }
-
 }
