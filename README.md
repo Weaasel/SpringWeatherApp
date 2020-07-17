@@ -26,7 +26,7 @@ $./mvnw spring-boot:run
 
 * 사용예시
 
-  <img src="">
+  <img src="https://github.com/Weaasel/SpringWeatherApp/blob/master/WeatherApp_ver1.png?raw=true" width=500>
 
 * Skill Set
 
